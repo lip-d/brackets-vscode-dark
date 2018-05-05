@@ -4,10 +4,10 @@
   "description": "Visual Studio Code Dark theme for Brackets.",
   "version": "0.9.0",
   "author": "Kenya Nekoyama <kn.tauruslate@gmail.com>",
-  "homepage": "https://github.com/fergaldoyle/brackets-visual-studio-dark",
+  "homepage": "https://github.com/lip-d/brackets-vscode-dark",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fergaldoyle/brackets-visual-studio-dark"
+    "url": "https://github.com/lip-d/brackets-vscode-dark"
   },
   "engines": {
     "brackets": ">=0.42.0"
